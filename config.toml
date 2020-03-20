@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com" # Hostname (and path) to the root.
+baseurl = "https://ideepg.github.io/mihi/" # Hostname (and path) to the root.
 title = "Deep Ganguly" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
@@ -77,4 +77,4 @@ pygmentsUseClasses = true # new add
 [[menu.main]]
     name = "About"
     weight = 2
-    url = "http://www.example.com"
+    url = "https://ideepg.github.io/mihi/"
