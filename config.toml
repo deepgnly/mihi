@@ -74,11 +74,6 @@ pygmentsUseClasses = true # new add
     weight = 4
     url = "https://www.linkedin.com/in/ideepg/"
 
-# Menu links
-#[[menu.main]]
- #   name = "Blog"
- #   weight = 1
- #   url  = "posts"
 [[menu.main]]
     name = "About"
     weight = 2
